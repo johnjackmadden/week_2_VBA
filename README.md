@@ -17,7 +17,7 @@ The data tables shown displays 12 stock tickers that were tracked throughout the
 
 The data shown for the year 2017 shows pretty strong performance all around. TERP was the only stock to go negative, and several stocks including DQ, ENPH, FSLR, and SEDG had over a 100% return compared to the beginning of the year.
 
-![VBA_Challenge_2018](/Resources/VBA_Chalenge_2018.png)
+![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
 Compared to 2017, 2018 was a much weaker stand alone year for the stocks we tracked. The only stocks to have a positive return were ENPH and RUN at over 80%, which is fairly strong. The losses for the other 10 stocks range from a low of -3.5% down to -60%.
 
