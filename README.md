@@ -1,10 +1,11 @@
 # VBA Challenge
 
-##Overview of Project
+
+## Overview of Project
 
 The overview of this specific project was to determine trends in stock market data throughout the years in order to best predict what stocks to invest in. We looked across 12 specific stocks during the years of 2017 and 2018 to track their total daily volume and their % return by the end of the year. Using this data we could look for trends in order to maximize our return on an initial investment.
 
-###Purpose
+### Purpose
 
 The main purpose of this exercise was to understand and apply basic computer science theory to a practical application for use to learn how multiple systems work together to output a finished project. We learned how to use conditionals, loops, and other skills to help build a base of computer science knowledge to be applied to future projects and coding languages.
 
@@ -22,7 +23,7 @@ Compared to 2017, 2018 was a much weaker stand alone year for the stocks we trac
 
 
 
-##Summary
+## Summary
 
 Advantages/Disadvantages of Using refactored code
 
