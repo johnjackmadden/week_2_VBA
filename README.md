@@ -13,11 +13,11 @@ The main purpose of this exercise was to understand and apply basic computer sci
 
 The data tables shown displays 12 stock tickers that were tracked throughout the year of 2017 and recording metrics such as its opening price, the highest and lowest price of the day, the close price and the adjusted close), and finally the total volume of stock that was traded on that specific day. All of this data was then processed through a VBA script to record the total daily volume of the 12 stocks, and the total return they had by the end of the year. 
 
-![2017](/resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](/resources/VBA_Challenge_2017.png)
 
 The data shown for the year 2017 shows pretty strong performance all around. TERP was the only stock to go negative, and several stocks including DQ, ENPH, FSLR, and SEDG had over a 100% return compared to the beginning of the year.
 
-![2018](/resources/VBA_Chalenge_2018.png)
+![VBA_Challenge_2018](/resources/VBA_Chalenge_2018.png)
 
 Compared to 2017, 2018 was a much weaker stand alone year for the stocks we tracked. The only stocks to have a positive return were ENPH and RUN at over 80%, which is fairly strong. The losses for the other 10 stocks range from a low of -3.5% down to -60%.
 
